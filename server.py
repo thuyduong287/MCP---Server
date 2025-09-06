@@ -38,3 +38,4 @@ def read_txt_as_table(file_path: str = str(STYLE_FILE_PATH)) -> str:
 if __name__ == "__main__":
     print("MCP Server started...")
     mcp.run()
+
